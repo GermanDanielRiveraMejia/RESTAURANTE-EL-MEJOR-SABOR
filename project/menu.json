@@ -1,0 +1,12 @@
+{
+  "productos": [
+    { "nombre": "Hamburguesa", "precio": 199.99, "categoria": "Comidas" },
+    { "nombre": "Pizza", "precio": 120.00, "categoria": "Comidas" },
+
+    { "nombre": "Coca Cola", "precio": 25.00, "categoria": "Bebidas" },
+    { "nombre": "Jugo de Sandía", "precio": 50.00, "categoria": "Bebidas" },
+
+    { "nombre": "Pastel de Chocolate", "precio": 80.00, "categoria": "Postres" },
+    { "nombre": "Budín", "precio": 70.00, "categoria": "Postres" }
+  ]
+}
